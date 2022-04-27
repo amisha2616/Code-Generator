@@ -1,0 +1,5 @@
+Operator	Argument1	Argument2	  Result
+	/						b						c						t1		
+	*						a						t1					t2		
+	*						t2					d						t3		
+	=						t3					_						r		
