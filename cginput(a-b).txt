@@ -1,0 +1,5 @@
+Operator	Argument1	Argument2	  Result
+	+			a	    	b			t1		
+	*	    	c			d			t2		
+	-	    	t1	    	t2			t		
+	=	    	t			_			x		
